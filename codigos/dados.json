@@ -1,0 +1,53 @@
+{
+    "listaDeItens":[
+        {
+            "nome": "Mouse",
+            "valor": 29.90,
+            "identificador": 1115661534,
+            "quantidade": 1
+        },
+        {
+            "nome": "Teclado",
+            "valor": 45.90,
+            "identificador": 6452354334,
+            "quantidade": 1
+        },
+        {
+            "nome": "Monitor",
+            "valor": 499.50,
+            "identificador": 1543657543,
+            "quantidade": 1
+        },
+        {
+            "nome": "Tinta de impressora",
+            "valor": 209.50,
+            "identificador": 6542367542,
+            "quantidade": 0
+        },
+        {
+            "nome": "PS5",
+            "valor": 5000.10,
+            "identificador": 3412653465,
+            "quantidade": 0
+        },
+        {
+            "nome": "Placa de vídeo",
+            "valor": -10.00,
+            "identificador": 6543764376,
+            "quantidade": 3
+        },
+        {
+            "nome": "HyperX QuadCast S",
+            "valor": 400.00,
+            "identificador": 9675345243,
+            "quantidade": 1
+        },
+        {
+            "nome": "Pilhas",
+            "valor": 1.40,
+            "identificador": 5643265465,
+            "quantidade": 4
+        }
+    ]
+
+}
