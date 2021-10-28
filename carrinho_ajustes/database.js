@@ -1,0 +1,60 @@
+module.exports = {
+    produtos: [
+      {
+        id: 1,
+        nome: 'Teclado',
+        descricao: 'Teclado comum',
+        categoria: 'periféricos',
+        preco: 4,
+      },
+      {
+        id: 2,
+        nome: 'Monitor',
+        descricao: 'Monitor widescreen de várias polegadas',
+        categoria: 'informática',
+        preco: 999,
+      },
+      {
+        id: 3,
+        nome: 'Desinfetante',
+        descricao: 'Removedor de olho gordo para ambientes internos',
+        categoria: 'casa',
+        preco: 7,
+      },
+      {
+        id: 4,
+        nome: 'Mouse pad',
+        descricao: 'Mouse pad para conforto',
+        categoria: 'periféricos',
+        preco: 2,
+      },
+      {
+        id: 5,
+        nome: 'Filtro de linha',
+        descricao: 'Filtro de linha com 5 entradas 110v',
+        categoria: 'eletrônicos',
+        preco: 4,
+      },
+      {
+        id: 6,
+        nome: 'Fralda',
+        descricao: 'Fralda invisível para quando estiver se borrando de medo',
+        categoria: 'higiene',
+        preco: 22,
+      },
+      {
+        id: 7,
+        nome: 'Mouse',
+        descricao: 'Mouse gamer',
+        categoria: 'informática',
+        preco: 50,
+      },
+      {
+        id: 8,
+        nome: 'Suporte Led',
+        descricao: 'Suporte para Ring LED de mesa',
+        categoria: 'acessórios',
+        preco: 3,
+      },
+    ],
+  }
