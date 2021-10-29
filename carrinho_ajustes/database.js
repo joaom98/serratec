@@ -3,14 +3,14 @@ module.exports = {
       {
         id: 1,
         nome: 'Teclado',
-        descricao: 'Teclado comum',
+        descricao: 'Teclado USB ABNT2',
         categoria: 'periféricos',
         preco: 4,
       },
       {
         id: 2,
         nome: 'Monitor',
-        descricao: 'Monitor widescreen de várias polegadas',
+        descricao: 'Monitor widescreen de várias 27 polegadas',
         categoria: 'informática',
         preco: 999,
       },
@@ -23,8 +23,8 @@ module.exports = {
       },
       {
         id: 4,
-        nome: 'Mouse pad',
-        descricao: 'Mouse pad para conforto',
+        nome: 'Mousepad',
+        descricao: 'Mousepad para conforto',
         categoria: 'periféricos',
         preco: 2,
       },

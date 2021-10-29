@@ -29,6 +29,17 @@ const subtracao = (a, b) => {
     return a - b;
 }
 
+/* Também pode ser:
+
+const subtracao = (a, b) => a - b;
+
+E se tivesse apenas um parâmetro
+
+const aoQuadrado = x => x * x
+
+*/
+
+
 console.log( subtracao(4, 12) )
 
 /* Ok, mas porquê?

@@ -2,51 +2,107 @@
     "listaDeItens":[
         {
             "nome": "Mouse",
-            "valor": 29.90,
+            "descricao": "Mouse USB genérico",
+            "preco": 29.90,
+            "categoria": "Periféricos",
             "identificador": 1115661534,
             "quantidade": 1
         },
         {
             "nome": "Teclado",
-            "valor": 45.90,
+            "descricao": "Teclado USB genérico",
+            "preco": 45.90,
+            "categoria": "Periféricos",
             "identificador": 6452354334,
             "quantidade": 1
         },
         {
             "nome": "Monitor",
-            "valor": 499.50,
+            "descricao": "Monitor LED 31 polegadas",
+            "preco": 499.50,
+            "categoria": "Periféricos",
             "identificador": 1543657543,
             "quantidade": 1
         },
         {
             "nome": "Tinta de impressora",
-            "valor": 209.50,
+            "descricao": "Tinta super cara feita de ouro",
+            "preco": 209.50,
+            "categoria": "Periféricos",
             "identificador": 6542367542,
             "quantidade": 0
         },
         {
             "nome": "PS5",
-            "valor": 5000.10,
+            "descricao": "Videogame da SONY",
+            "preco": 5000.10,
+            "categoria": "Videogames",
             "identificador": 3412653465,
             "quantidade": 0
         },
         {
             "nome": "Placa de vídeo",
-            "valor": -10.00,
+            "descricao": "GTX 3080 TI",
+            "preco": -10.00,
+            "categoria": "Videogames",
             "identificador": 6543764376,
             "quantidade": 3
         },
         {
             "nome": "HyperX QuadCast S",
-            "valor": 400.00,
+            "descricao": "Microfone RGB",
+            "preco": 400.00,
+            "categoria": "Periféricos",
             "identificador": 9675345243,
             "quantidade": 1
         },
         {
             "nome": "Pilhas",
-            "valor": 1.40,
+            "descricao": "Pilhas alcalinas AAAAAAAA",
+            "preco": 1.40,
+            "categoria": "Periféricos",
             "identificador": 5643265465,
             "quantidade": 4
+        },
+        {
+            "nome": "Desinfetante",
+            "descricao": "Removedor de olho gordo para ambientes internos",
+            "preco": 5.40,
+            "categoria": "Limpeza",
+            "identificador": 5431262,
+            "quantidade": 2
+        },
+        {
+            "nome": "Mousepad",
+            "descricao": "Mousepad para conforto",
+            "preco": 77.40,
+            "categoria": "Periféricos",
+            "identificador": 4321236123,
+            "quantidade": 1
+        },
+        {
+            "nome": "Filtro de linha",
+            "descricao": "Filtro de linha com 5 entradas 110v",
+            "preco": 11.45,
+            "categoria": "Periféricos",
+            "identificador": 6534275432,
+            "quantidade": 4
+        },
+        {
+            "nome": "Fralda",
+            "descricao": "Fralda invisível para quando estiver se borrando de medo",
+            "preco": 155.40,
+            "categoria": "Limpeza",
+            "identificador": 643276523,
+            "quantidade": 2
+        },
+        {
+            "nome": "Suporte Led",
+            "descricao": "Suporte para Ring LED de mesa",
+            "preco": 545.40,
+            "categoria": "Periféricos",
+            "identificador": 6453267345,
+            "quantidade": 0
         }
     ]
 
