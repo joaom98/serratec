@@ -1,3 +1,14 @@
+/* Funções. O que é uma função?
+
+Uma forma de juntar um pedaço de código 
+para resolver um problema único.
+
+Recebe entradas (parâmetros) e pode dar um retorno
+
+*/
+
+
+
 
 function soma( numero1, numero2 ){
     return numero1 + numero2
